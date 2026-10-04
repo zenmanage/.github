@@ -16,3 +16,4 @@ Zenmanage is a feature flag and remote configuration platform. Roll out features
 | Python | [zenmanage-python](https://github.com/zenmanage/zenmanage-python) |
 | Go | [zenmanage-go](https://github.com/zenmanage/zenmanage-go) |
 | C# / .NET | [zenmanage-dotnet](https://github.com/zenmanage/zenmanage-dotnet) |
+| React | [zenmanage-react](https://github.com/zenmanage/zenmanage-react) |
