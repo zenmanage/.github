@@ -8,12 +8,20 @@ Zenmanage is a feature flag and remote configuration platform. Roll out features
 
 ## SDKs
 
-| Language | Repository |
+### Backend
+
+| SDK | Repository |
 | --- | --- |
-| JavaScript / TypeScript | [zenmanage-javascript](https://github.com/zenmanage/zenmanage-javascript) |
-| PHP | [zenmanage-php](https://github.com/zenmanage/zenmanage-php) |
-| Laravel | [zenmanage-laravel](https://github.com/zenmanage/zenmanage-laravel) |
-| Python | [zenmanage-python](https://github.com/zenmanage/zenmanage-python) |
 | Go | [zenmanage-go](https://github.com/zenmanage/zenmanage-go) |
-| C# / .NET | [zenmanage-dotnet](https://github.com/zenmanage/zenmanage-dotnet) |
+| Java | [zenmanage-java](https://github.com/zenmanage/zenmanage-java) |
+| Laravel | [zenmanage-laravel](https://github.com/zenmanage/zenmanage-laravel) |
+| .NET | [zenmanage-dotnet](https://github.com/zenmanage/zenmanage-dotnet) |
+| PHP | [zenmanage-php](https://github.com/zenmanage/zenmanage-php) |
+| Python | [zenmanage-python](https://github.com/zenmanage/zenmanage-python) |
+
+### Web
+
+| SDK | Repository |
+| --- | --- |
+| JavaScript and TypeScript | [zenmanage-javascript](https://github.com/zenmanage/zenmanage-javascript) |
 | React | [zenmanage-react](https://github.com/zenmanage/zenmanage-react) |
