@@ -15,7 +15,7 @@ Open an issue in the repository for the SDK you're using. Include the SDK versio
 
 ## Code of conduct
 
-Participation in Zenmanage projects is governed by the [Code of Conduct](https://github.com/zenmanage/.github/blob/main/CODE_OF_CONDUCT.md).
+Participation in Zenmanage projects is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
