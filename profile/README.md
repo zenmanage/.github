@@ -32,3 +32,4 @@ Zenmanage is a feature flag and remote configuration platform. Roll out features
 | SDK | Repository |
 | --- | --- |
 | iOS (Swift and Objective-C) | [zenmanage-swift](https://github.com/zenmanage/zenmanage-swift) |
+| React Native | [zenmanage-react-native](https://github.com/zenmanage/zenmanage-react-native) |
