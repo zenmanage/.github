@@ -23,6 +23,7 @@ Zenmanage is a feature flag and remote configuration platform. Roll out features
 
 | SDK | Repository |
 | --- | --- |
+| Angular | [zenmanage-angular](https://github.com/zenmanage/zenmanage-angular) |
 | JavaScript and TypeScript | [zenmanage-javascript](https://github.com/zenmanage/zenmanage-javascript) |
 | Next.js | [zenmanage-nextjs](https://github.com/zenmanage/zenmanage-nextjs) |
 | React | [zenmanage-react](https://github.com/zenmanage/zenmanage-react) |
